@@ -5,7 +5,6 @@
 #include <assert.h>
 #include <ctype.h>
 #include <sys/file.h>
-#include <unistd.h>
 
 #define FILENAME_IN "Onegin.txt"
 #define FILENAME_OUT "Onegin_out.txt"
